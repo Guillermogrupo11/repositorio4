@@ -62,9 +62,12 @@
             <artifactId>jjwt</artifactId>
             <version>0.9.1</version>
         </dependency>
-
-        
-
+        <dependency>
+            <groupId>org.apache.commons</groupId>
+            <artifactId>commons-long3</artifactId>
+            <version>3.9</version>
+       
+        </dependency>
     </dependencies>
 
     <build>
